@@ -1,0 +1,7 @@
+h5toms.py  -C 600,3900 -a BLABLABLA.h5 
+
+ls BLABLABLA_xxx.ms
+casapy
+	m="BLABLABLA_xxx.ms"
+	run -i msTosplitFITS.py
+quit

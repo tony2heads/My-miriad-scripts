@@ -1,0 +1,577 @@
+0023-263	8.5Jy OK
+0023-263	9.4Jy OK
+
+0039-445	3.8Jy slightly resolved OK?
+0039-445	4.2Jy OK
+
+0056-001	2.4Jy flagged OK
+0056-001	2.5Jy Pol OK
+0056-001	2.6Jy POL? OK
+
+0106+013	3.2Jy OK
+0106+013	flagged 3.0Jy OK
+
+0201-440	2.8Jy flagged OK
+0201-440	3.1JY some structure OK
+0201-440	3Jy OK
+0201-440	flagged	2.9Jy OK
+
+0208-512	2.4Jy some structure OK
+0208-512	2.5Jy OK
+
+0237-233	5.9Jy OK flagged
+0237-233	6.1Jy Pol? OK
+0237-233	flagged	5.8Jy OK
+
+0252-712	6.1Jy flagged OK 
+0252-712	6.1Jy OK	
+0252-712	6.4JY OK flagged
+0252-712	6.6Jy OK
+0252-712	flagged	6.3Jy
+
+0302-623	2.5Jy flagged OK
+0302-623	2.7Jy OK
+0302-623	2.7Jy OK?
+0302-623	flagged	2.6Jy OK
+
+0320+053	2.9Jy OK
+0320+053	2.9Jy OK
+
+0403-132	4.0Jy OK
+0403-132	4.3Jy OK some flagging done
+
+0406-180	2.3Jy flagged
+0406-180	2.5Jy OK some flagging done
+0406-180	flagged	2.2Jy OK
+
+0408-658	16.4Jy (map not very good) CAL OK
+0408-658	17.3Jy CAL OK
+0408-658	CAL 17.5Jy OK
+0408-658	CAL OK
+
+0410-752	13.8Jy slightly resolved on long baselines OK?
+0410-752	14.1Jy OK
+0410-752	14.2Jy slightly resolved OK?
+0410-752	14.8Jy OK
+0410-752	15Jy OK
+
+0420-014	1.8Jy OK?
+0420-014	1.9Jy OK
+0420-014	1.9Jy some structure OK?
+
+0420-625	3.7Jy some structure OK?
+0420-625	flagged	3.6Jy OK
+
+0438-436	4.0Jy few components >0.1Jy OK?
+0438-436	4.2Jy some structure OK?
+0438-436	4.3Jy some structure OK
+
+0451-282	2.0Jy with 2 comp >0.1Jy
+0451-282	2.1Jy some structure OK?
+0451-282	2.2Jy some flagging done OK
+
+0454-463	3.2Jy OK?
+0454-463	3.5Jy Pol? OK
+0454-463	3.5JY Pol? OK flagged
+
+0531+194	6.7Jy OK
+0531+194	6.8Jy OK full of RFI  ==DO NOT USE==
+
+0537-441	4.2Jy OK full of RFI  BEWARE
+0537-441	4.3Jy OK
+0537-441	4.4Jy flagging done OK?
+
+0637-752	5.8Jy slightly resolved on long baselines 0.48Jy source NW  OK? flagged
+0637-752	5.8Jy slightly resolved with 0.49Jy source N and 0.23Jy S OK
+0637-752	6.1Jy with comp >0.5Jy OK?
+0637-752	6.4Jy Pol? OK
+0637-752	6.5Jy OK
+0637-752	6Jy resolved full of RFI BEWARE
+
+0655-319	1.5Jy OK?
+
+0723-008	4.9Jy OK?
+0723-008	4.9Jy Pol? flagging done OK
+0723-008	5.0Jy OK flagged
+
+0727-115	3.0Jy OK
+
+0851+202	2.0Jy some structure OK? flagged
+0851+202	2.2Jy Pol? OK 
+0851+202	2Jy OK
+
+0906-682	1.9Jy with few components ~0.08Jy OK?
+0906-682	2.0Jy needs flagged
+0906-682	2.1Jy OK
+
+1054-370	1.5Jy  flagged OK
+1054-370	1.5Jy slightly resolved OK?
+
+1055+018	3.5Jy full of RFI BEWARE
+1055+018	3.7Jy slightly resolved OK
+1055+018	3.9Jy some structure OK?
+
+1127-145	5.0Jy lots of RFI BEWARE
+1127-145	6Jy  flagged OK
+
+1139-285	2.6Jy resolved
+1139-285	2.7Jy  flagged OK
+
+1151-348	6.6Jy  confusing source 0.8Jy south west flagged
+
+1213-172	1.8Jy  flagged OK
+1213-172	1.8Jy some structure OK flagged
+
+1237-101	1.8Jy Pol? 0.09Jy south east OK flagged
+1237-101	1.9Jy slightly resolved?  flagged OK?
+
+1240-209	1.6Jy resolved
+1240-209	1.7Jy  flagged OK
+
+1244-255	0.8Jy  flagged OK??
+1244-255	0.92Jy some structure WEAK OK?? flagged
+
+1421-490	8.1Jy OK
+1421-490	8.1Jy with 0.5Jy source W OK
+1421-490	8.6Jy slightly resolved OK flagged
+
+1740-517	7.3Jy with 0.15Jy source NW OK
+1740-517	7.4Jy OK
+
+1827-360	7.7Jy flagged OK
+1827-360	8.9Jy some structure OK
+
+1830-210	9.6Jy with 0.56Jy source NW OK
+1830-210	9.7Jy  with 0.6Jy source NW flagged OK
+
+1934-638	14.8Jy OK CAL
+1934-638	CAL 14.9Jy OK
+
+1938-155	6.8Jy Pol? 0.3Jy source W OK
+1938-155	6.9Jy OK Pol?
+
+2326-477	3.2Jy
+2345-167	1.9Jy OK?
+
+3C138		9Jy Pol a lot or RFI ==DO NOT USE==
+3C138		flagged	8.2Jy pol OK
+
+3C237		6.6Jy full of RFI BEWARE
+3C237		7Jy  flagged OK?
+3C237		BAD!!! HUGE RFI DO NOT USE
+
+3C279		12.6Jy flagged structure??
+3C279		13Jy POL  flagged
+
+3C283		5.8Jy structure?
+3C283		6Jy  flagged OK?
+
+3C286		14.7Jy with 0.94 Jy source southeast POL OK flagged
+
+3C48		15.6Jy OK
+
+CTA21		7.7Jy flagged BEWARE
+CTA21		flagged	7.5Jy OK
+
+J001053-415311	4.6Jy OK
+J001053-415311	4.6Jy OK
+J001053-415311	4.7Jy OK
+J001053-415311	4.7Jy some structure OK
+J001053-415311 4.9Jy OK?
+
+J002225+001456=0019-000	2.7Jy OK?
+J002225+001456	2.9Jy OK
+J002225+001456 3Jy resolved
+
+J002549-260212=0023-263	8.7Jy some structure OK
+J002549-260212	8.9Jy flagged OK
+J002549-260212 = CAL set at 9.3Jy OK
+
+J004208-441400=0039-445	3.8Jy OK
+J004208-441400	3.9Jy  maybe slightly resolved OK?
+J004208-441400	3.9Jy resolved flagged
+J004208-441400 4.2Jy maybe slightly resolved on long baselines OK?
+
+J005905+000651 2.4Jy resolved? pol?
+
+J010838+013458=0106+013 3Jy maybe resolved?
+
+J012730-140257 	2.9JY OK?
+
+J013028-261000	1.6Jy structure
+
+J013738-243054	1.2Jy OK?
+
+J014127-270607	1.7Jy stucture
+
+J015310-331024	1.1Jy stucture
+
+J015647-361609	1.4Jy structure
+
+J015741-104340	2.2Jy structure
+
+J020012-305325	4Jy resolved 
+
+J020157-113233	2.8Jy OK?
+
+J020340-434950=0201-440 2.9Jy maybe OK?
+
+J020457-170119	1.3Jy structure
+
+J021046-510102=0208-512	2.5Jy maybe slightly resolved OK?
+J021046-510102 2.5Jy resolved?
+J021046-510102	2.6Jy some structure OK?
+
+J021757-163110	0.9Jy some structure
+
+J022054-015651	3.5Jy resolved
+
+J022502-231247	2.2Jy OK? (previously NO)
+
+J022508-003531	1.2Jy POL?
+
+J022720-303748	1.2Jy lots of structure
+
+J023253-064553	1.5Jy structure
+
+J023324-232105	1Jy highly resolved
+
+J023507-040205	1.6Jy structure Pol?
+
+J023743-193235	4.5Jy resolved on long baselines OK??
+
+J024008-230916 sources OK?
+
+J025246-710436 6.3Jy resolved??
+
+J025246-710436=0252-712	6.4Jy OK  flagged
+
+J030350-621125=0302-623 2.6Jy OK??
+
+J030919-103839	0.9Jy highly resolved
+
+J033848-352219	1Jy lots of structure
+
+J034205-370321	2.1Jy resolved with 0.24Jy source north
+J034205-370321	2.1Jy with 0.24Jy source resolved
+
+J040533-130814=0403-132	3.9Jy OK?
+
+J040820-654508=0408-658	16.1Jy OK
+
+J040848-750720=0410-752	13.8Jy OK
+
+J041946-395005	1.3Jy structure
+
+J042056-622337=0420-625	3.4Jy OK
+J042056-622337 	3.7Jy
+J042056-622337	3.9Jy structure
+
+J042840-375619	1.1Jy structure
+
+J045828-300707	resolved out 
+
+J051018-571942	1.8Jy resolved
+J051018-571942	2.0Jy structure
+
+J051100-220156=0508-220	1.9Jy OK??
+
+J052332-325122	1.1Jy structure
+
+J060941-154240=0607-157	3.0Jy	OK?
+J060941-154240	3.1Jy needs OK?? flagged - most gone only a little data left BEWARE !!
+J060941-154240	3.6Jy structure
+
+J061636-345617	3.0Jy full of RFI BEWARE
+J061636-345617	3.0Jy	OK?
+
+J065717-320333	1.6Jy needs flagging OK?? full of RFI ==DO NOT USE==
+
+J073019-114112	3.0Jy with 0.12Jy OK?
+J073019-114112	3.2Jy 
+J073019-114112	3.3Jy OK?
+
+J073545-173548=0733-174	2.6Jy	OK?
+J073545-173548	2.7Jy needs flagging OK?? full of RFI == DO NOT USE==
+J073545-173548	2.8Jy OK?
+J073545-173548	2.8Jy OK?	
+
+J082536-501028=0823-500 5.2Jy OK
+J082536-501028=0823-500	~5.3Jy OK lots flagged  BEWARE!!
+J082536-501028	5.9Jy OK
+J082536-501028	5.9Jy OK (0823-500)
+
+J085711-033940	1Jy resolved  flagged
+J085711-033940	1Jy resolved out
+
+J085805-195036	1.4Jy  flagged
+J085805-195036	1.5Jy structure
+
+J085938-192225	1.1Jy structure
+J085938-192225	1Jy
+
+J090652-682939=0906-682	2Jy OK?
+
+J094323-762011	2.0Jy with 0.38Jy source N flagged
+J094323-762011	2.0Jy  with 0.4Jy source N
+J094323-762011	2.1Jy with 0.27Jy N
+J094323-762011	2.1Jy with 0.37Jy source north, lots flagged BEWARE!!
+
+J102011-324534	1.8Jy 
+J102011-324534	1.9Jy structure 
+
+J104644-360113	1.5Jy resolved 
+J104644-360113	1.6Jy resolved
+
+J105104-313813	0.9Jy some structure  OK??
+J105104-313813 	1.1Jy  flagged
+
+J105132-202347	1.5Jy lots flagged BEWARE!! OK??
+J105132-202347	1.6Jy OK?
+J105132-202347  1.7Jy  flagged OK???
+
+J105854-362044  1Jy resolved out
+J105854-362044	1Jy resolved out
+
+J110154-632522=1059-631  1.1Jy  flagged OK?
+J110154-632522	1.1Jy some structure OK?
+
+J110203-011618	3Jy lots of structure flagged
+J110203-011618	3Jy structure
+
+J112009-250807=1117-248	1.7Jy structure OK?? flagged
+J112009-250807	1.9Jy flagged
+
+J112556-352315	2.5Jy resolved out
+
+J113910-135042	4.4Jy resolved
+J113910-135042	4.5Jy lots of stucture
+
+J113917-322237	1.7Jy resolved out full of RFI ==DO NOT USE==
+J113917-322237	2.5JJy heavily resolved
+
+J114620-315715	1.4Jy with 0.4Jy source nearby west  -maybe triple??
+J114620-315715	1.5Jy lots of structure
+
+J114701-381210  1.3Jy sources southwest. maybe triple??
+J114701-381210	1.5Jy structure
+
+J115421-350532=1151-348	6.7Jy OK?
+
+J122039-374015	1.2Jy  flagged 
+J122039-374015	1.2Jy resolved
+
+J125720-333437	1.2Jy structure flagged
+J125720-333437	1.2Jy with pair of sources (0.30, 0.33Jy) east
+
+J125758-315516	1.1Jy sources south east (one 0.24Jy)
+J125758-315516	1.2Jy structure flagged
+
+J130100-322629	1.2Jy structure
+J130100-322629	1.3Jy with 0.25Jy source nortwest 
+
+J130949-001236	1.5Jy highly resolved
+J130949-001236	1.5Jy structure
+
+J131608-333901	0.84Jy with 0.23Jy source W 0.15Jy source N
+J131608-333901	0.91Jy with 0.23Jy source west
+J131608-333901	0.9Jy structure	
+
+J131830-462034=1315-460	2.3Jy structure OK??
+J131830-462034	2.4Jy OK?? flagged
+
+J132738-020311	1.3Jy highly resolved
+J132738-020311	1.3Jy pol stucture OK??
+
+J133037+250911=3C287	6.8Jy with 0.52Jy source southeast OK? flagged
+J133037+250911	7.Jy OK?
+
+J133335-330524	1.5Jy with 1Jy source W (maybe double?) Pol ?
+J133335-330524	1.7Jy resolved with with 0.93Jy source west
+
+J133739-125724	2.8Jy POL? OK? flagged
+
+J134354-373353	1.1Jy sources 0.2, 0.08,0.09Jy
+J134354-373353	1.1Jy with 2 sources >0.15Jy Pol?
+
+J134503-314012	0.82Jy highly resolved with 3 sources >0.06Jy
+J134503-314012	0.84Jy resolved out
+
+J134537-005706	1.0Jy with structure
+
+J134733+121724=1345+125	5.3Jy OK flagged
+
+J140240-360351	1.6Jy structure
+J140240-360351	1.6Jy structure
+
+J140649-015417	1.1Jy highly resolved, 
+
+J141630-364136	Double source (0.72,0.54)Jy 
+J141630-364136	double source (0.79 and 0.59Jy)
+
+J142336-181613	1.2Jy with 0.41Jy source northeast
+J142336-181613	1.2Jy with 0.45Jy source NE
+
+J142414-382626	1.8Jy resolved out
+J142414-382626	1.9Jy resolved out with 0.13Jy source NE
+
+J142529-295954=1422-297	2.3Jy resolved OK??
+J142529-295954	2.4Jy structure OK? flagged
+
+J142558-175642	1.0Jy highly resolved with 0.5Jy source southwest
+
+J142756-420618=1424-418	5.6Jy with 0.42Jy source southeast OK? flagged
+J142756-420618	5.4Jy OK??
+
+J145432-401230	0.85Jy with 0.23Jy E
+J145432-401230	0.91Jy with 0.22Jy source east
+J145432-401230	0.9Jy pol? with 0.3Jy source E
+
+J145915-365548	1.5Jy with 3 sources >0.13Jy
+J145915-365548	1.6Jy with sources 0.2, 0.1,0.1Jy
+
+J150135-391839=1458-391	2.9Jy OK? flagged
+J150135-391839	2.8Jy OK?
+J150135-391839	2.8Jy some structure OK?
+
+J151053-054307=1508-055	3.7Jy slightly resolved OK? flagged
+
+J151155-304503	1Jy highly resolved with 0.3Jy source E flagged
+
+J151741-242220=ApLib=1514-241	1.9Jy Pol? OK? flagged
+
+J152237-273010	0.77Jy struct flagged
+
+J153353-333711	1.0Jy resolved
+J153353-333711	1.1Jy resolved
+
+J154402-335228	1.5Jy resolved
+J154402-335228	1.5Jy resolved out
+
+J154403-133056	1Jy resolved
+
+J155659-791404	5.1Jy with 2.5Jy (!!) S
+J155659-791404	5.2Jy with 2.6Jy S flagged 
+J155659-791404	5.3Jy with 2.6Jy source S
+
+J160502-173415	1.5Jy with 0.13Jy source NE 
+
+J161933-841819=1607-841	1.7Jy with 0.14Jy N OK??
+J161933-841819	1.7Jy with 0.14Jy source N OK? flagged 
+J161933-841819	flagged	1.6Jy with few sources ~0.1Jy OK??
+
+J170541-321924	1.2Jy some structure flagged 
+J170541-321924	1.2Jy with 0.11Jy NW and 0.06Jy E
+
+J171257-280935=1709-281	5.3Jy Pol? OK
+J171257-280935	5.5Jy OK? flagged
+
+J172649-552938	5.2Jy with 0.23Jy S and 0.16Jy NW flagged  OK 
+J172649-552938	5.2Jy with 0.25Jy and 0.18Jy OK
+
+J173302-130449	4.7Jy slightly resolved OK?  flagged 3rd ant bad at start
+J173302-130449=NRAO530	4.9Jy Pol? OK
+
+J174527-075304	0.88Jy  with two sources >0.1Jy W
+J174527-075304	0.9Jy with 2 sources >0.1Jy W
+
+J180249-020740	1.2Jy resolved out
+J180249-020740	1.3Jy resolved . First part ants low (offsource) flagged.
+
+J181807-515805	3.6Jy POSITION ERROR OK??
+J181807-515805	position  offset from centre (18:18:07, -51:58:02, 3.9Jy OK?) .flagged. Source pos has typo!!!
+
+J181935-634548=1814-637	14.3Jy with 2Jy source SE OK?? something odd with 10th antenna flagged
+J181935-634548	14Jy with 1.9Jy SE flagged OK
+
+J182035-390929	2.7Jy with 0.33Jy W
+J182035-390929	2.8Jy with 0.4Jy source W
+
+J182319-272627	3.1Jy 
+J182319-272627	3.2Jy resolved with 0.2Jy and 0.15Jy sources
+
+J183232-342238	1.5Jy highly resolved with 0.16Jy source N
+J183232-342238	1.5Jy resolved with 0.15Jy N
+
+J183537-714958	2.8Jy with 0.44Jy N and 0.17Jy NW
+J183537-714958	2.8Jy with 0.4Jy N, 0.16 and  0.18Jy NW
+
+J185710-301945	1.6Jy resolved
+J185710-301945	1.6Jy resolved
+
+J185958-661503	1.5Jy some structure OK?
+J185958-661503	1.7Jy structure
+
+J191109-200655=1908-201	1.5Jy OK? flagged
+J191109-200655	1.5Jy with 0.1Jy S 0.08Jy SW  flagged OK??
+
+J191157-054820	1.5Jy structure
+J191157-054820	1.6Jy with 0.17Jy NW and 0.12JY W
+
+J191927-295751	1.3Jy resolved with distant source (off field)
+J191927-295751	1.4Jy highly resolved with distant strong source
+
+J192155-352639	1.1Jy resolved out
+J192155-352639	1.2 Jy resolved
+
+J192332-210433=1920-211	1.6Jy with 4 sources ~0.07Jy OK? flagged
+J192332-210433	1.6Jy with few sources >0.05Jy  OK?
+
+J192451-291431=1921-293=OV-236	6.5Jy structure OK?
+J192451-291431	6.6Jy OK
+
+J192628-324242	1.1Jy with 0.5Jy N (maybe double?)
+J192628-324242	double (1.1Jy, 0.47Jy)
+
+J193135-140559	1.0 Jy resolved
+J193135-140559	1.1Jy resolved out
+
+J193321-394005	1.5Jy resolved out
+J193321-394005	1.7Jy with 0.17 and 0.10Jy sources resolved
+
+J193654-002157	1.49Jy stucture
+J193654-002157	1.5Jy structure flagged OK??
+
+J193716-395800	0.95Jy with 0.38Jy source W flagged
+J193716-395800	0.9Jy  with 0.42Jy W
+
+J193732-583828=1933-587	3.0Jy some stucture OK?
+J193732-583828	3.2Jy some structure OK? flagged
+
+J194013-225955	1.3Jy structure
+J194013-225955	1.3Jy structure
+
+J195123-273720	1.4Jy structure
+J195123-273720	1.4Jy with 0.08Jy S
+
+J195759-384505	1.3Jy with 0.1Jy NW OK??
+J195759-384505	1.3Jy with 0.1Jy source NW and other stuff
+
+J195903-353432=1955-351.9Jy structure Pol? OK??
+
+J200756-101638=2005-104	1.6Jy with 0.13Jy NE OK??
+
+J200925-484953	0.9Jy structure
+
+J202807-152120=2025-155	1.6Jy with distamt strong interference (Sun??) OK????
+
+J203547-345403	5.6Jy resolved
+
+J205218-364031	1.5Jy structure
+
+J220505-551743	1.9Jy with 0.19Jy NW	
+
+J222946-382359=2226-386	2.2Jy slightly resolved OK??
+
+J230224-371807=2259-375	2.8Jy slightly resolved OK??
+
+J231409-445549=2311-452	2.2Jy slightly resolved OK??
+
+J232207-544530	1.7Jy with 0.17Jy N
+
+J232614-402715	3.5Jy with 0.8Jy SW
+
+J234146-350622	flagged	2Jy OK?
+
+J235753-531115	1.2Jy with 0.1Jy E
+
